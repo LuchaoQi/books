@@ -1,0 +1,5 @@
+An Introduction To Statistical Learning with Applications in R (ISLR Sixth Printing).pdf
+timetables/100 hours of study.pdf
+timetables/formula list.pdf
+timetables/project planning.pdf
+timetables/study plan.pdf
