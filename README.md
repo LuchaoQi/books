@@ -1,6 +1,6 @@
 # books
 
-> Relevant notes are stored in md/ipynb/rmd files
+> Relevant notes are stored in md/ipynb/Rmd files
 
 - [ ] Feature Engineering Made Easy
 - [ ] ISLR
