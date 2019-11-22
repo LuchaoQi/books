@@ -1,3 +1,6 @@
 # books
 
-Some books are in github star
+- [ ] Feature Engineering Made Easy
+- [ ] ISLR
+- [ ] 
+- [ ] 
