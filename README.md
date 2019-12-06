@@ -17,6 +17,6 @@
 
 **movies**
 
-- [ ] 
-- [ ] Detachment
-- [ ] Joker 2019
+Detachment
+
+Joker 2019
