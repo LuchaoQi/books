@@ -6,7 +6,7 @@
 
 **technically-oriented**
 
-- [ ] Feature Engineering Made Easy
+- [x] Feature Engineering Made Easy
 - [ ] ISLR
 
 **miscellaneous**
