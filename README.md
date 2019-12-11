@@ -7,6 +7,7 @@
 **technically-oriented**
 
 - [x] Feature Engineering Made Easy
+- [ ] Lihang
 - [ ] ISLR
 
 **miscellaneous**
