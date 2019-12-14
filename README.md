@@ -12,6 +12,8 @@ Lihang
 
 ISLR
 
+Interactive Linear Algebra
+
 
 
 **miscellaneous**
