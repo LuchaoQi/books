@@ -1,6 +1,8 @@
 # books
 
 > Relevant notes are stored in md/ipynb/Rmd files
+>
+> [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
 
 
 
