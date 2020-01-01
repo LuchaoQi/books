@@ -2,11 +2,14 @@
 
 > Relevant notes are stored in md/ipynb/Rmd files
 >
-> [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
 
 
 
-**technically-oriented**
+### technically-oriented
+
+[Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
+
+
 
 Feature Engineering Made Easy
 
@@ -18,7 +21,11 @@ Interactive Linear Algebra
 
 
 
-**miscellaneous**
+### miscellaneous
+
+[The books that shaped my decade](https://huyenchip.com/2019/12/28/books-that-shaped-my-decade.html)
+
+
 
 见识 吴军
 
@@ -28,7 +35,7 @@ Interactive Linear Algebra
 
 
 
-**movies**
+### movies
 
 Detachment
 
