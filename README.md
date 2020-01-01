@@ -17,7 +17,7 @@ Lihang
 
 ISLR
 
-Interactive Linear Algebra
+[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/)
 
 
 
