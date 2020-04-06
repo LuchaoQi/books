@@ -40,6 +40,8 @@ Applied Reinforcement Learning with Python
 
 
 
+https://www.bilibili.com/video/BV1eZ4y1j7kw
+
 见识 吴军
 
 把时间当作朋友 李笑来
