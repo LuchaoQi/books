@@ -46,13 +46,13 @@ Applied Reinforcement Learning with Python
 
 ### Miscellaneous
 
+[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
+
 
 
 https://www.bilibili.com/video/BV1eZ4y1j7kw
 
 见识 吴军
-
-[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
 
 当下的力量
 
