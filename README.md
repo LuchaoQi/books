@@ -1,4 +1,8 @@
-# Books
+[TOC]
+
+
+
+### Resources
 
 > Relevant notes are stored in md/ipynb/Rmd files
 >
@@ -11,6 +15,10 @@
 
 
 ### Technically-oriented
+
+[Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/ageron/handson-ml2)
+
+
 
 
 
@@ -26,13 +34,13 @@ Lihang
 
 [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-
-
-
-
 Applied Reinforcement Learning with Python
 
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+
+
+
+
 
 
 
@@ -44,7 +52,7 @@ https://www.bilibili.com/video/BV1eZ4y1j7kw
 
 见识 吴军
 
-把时间当作朋友 李笑来
+[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
 
 当下的力量
 
