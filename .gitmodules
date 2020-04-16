@@ -4,3 +4,6 @@
 [submodule "Lihang/Statistical-Learning-Method_Code"]
 	path = Lihang/Statistical-Learning-Method_Code
 	url = https://github.com/Dod-o/Statistical-Learning-Method_Code.git
+[submodule "time-as-a-friend"]
+	path = time-as-a-friend
+	url = https://github.com/xiaolai/time-as-a-friend.git
