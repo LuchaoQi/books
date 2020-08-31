@@ -1,0 +1,7 @@
+[submodule "Lihang/Lihang"]
+	path = Lihang/Lihang
+	url = https://github.com/SmirkCao/Lihang.git
+[submodule "Lihang/Statistical-Learning-Method_Code"]
+	path = Lihang/Statistical-Learning-Method_Code
+	url = https://github.com/Dod-o/Statistical-Learning-Method_Code.git
+
