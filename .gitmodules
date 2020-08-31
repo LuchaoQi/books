@@ -5,3 +5,6 @@
 	path = Lihang/Statistical-Learning-Method_Code
 	url = https://github.com/Dod-o/Statistical-Learning-Method_Code.git
 
+[submodule "deep-learning-with-python-notebooks"]
+	path = deep-learning-with-python-notebooks
+	url = https://github.com/fchollet/deep-learning-with-python-notebooks
