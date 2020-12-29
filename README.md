@@ -6,13 +6,21 @@
 
 
 
-### Technically-oriented
+
+
+### Done
+
+[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
 
 
 
 
 
-to do
+
+
+### Non-local books
+
+
 
 [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
@@ -26,11 +34,7 @@ to do
 
 
 
-
-
-Feature Engineering Made Easy
-
-Lihang
+[Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
 
 [ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
@@ -40,13 +44,7 @@ Lihang
 
 MIT Linear Algebra
 
-Applied Reinforcement Learning with Python
-
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
-
-
-### Other books
 
 
 
@@ -56,23 +54,9 @@ Applied Reinforcement Learning with Python
 
 资本论
 
-Cracking the PM Interview_ How to Land a Product Manager Job in Technology
-
-[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
-
 见识 吴军
 
 当下的力量
-
-
-
-### Movies
-
-Detachment
-
-Joker 2019
-
-
 
 
 
