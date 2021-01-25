@@ -1,24 +1,16 @@
 [TOC]
 
-> Relevant notes are stored in md/ipynb/Rmd files
+> Relevant notes are stored in md/ipynb/Rmd/pdf files
 
 
 
 
-
-
-
-### Done
 
 [把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
 
 
 
-
-
-
-
-### Non-local books
+### Books
 
 
 
@@ -31,6 +23,10 @@
 [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 [Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/ageron/handson-ml2)
+
+
+
+
 
 
 
@@ -48,6 +44,22 @@ MIT Linear Algebra
 
 
 
+
+
+
+
+
+
+make it stick
+
+[Maps of Meaning - Jordan B Peterson](https://www.bilibili.com/video/BV1xJ411W71s?p=4)
+
+微习惯
+
+能断金刚
+
+对生命说是
+
 潜规则 吴思
 
 血酬定律 吴思
@@ -57,6 +69,8 @@ MIT Linear Algebra
 见识 吴军
 
 当下的力量
+
+
 
 
 
