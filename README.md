@@ -4,9 +4,17 @@
 
 
 
+### Finished
 
 
-[把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
+
+[time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)
+
+[Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
+
+[ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+
 
 
 
@@ -28,12 +36,6 @@
 
 
 
-
-
-[Feature Engineering Made Easy](https://github.com/PacktPublishing/Feature-Engineering-Made-Easy)
-
-[ISLR](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-
 [Gatech Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/)
 
 [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf)
@@ -41,12 +43,6 @@
 MIT Linear Algebra
 
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
-
-
-
-
-
-
 
 
 
@@ -69,8 +65,6 @@ make it stick
 见识 吴军
 
 当下的力量
-
-
 
 
 
